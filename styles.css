@@ -23,7 +23,7 @@ header {
 
   position: sticky;
   top: 0;
-  z-index: 1000; 
+  z-index: 1; 
 }
 
 header img {
@@ -78,8 +78,7 @@ section {
 }
 
 div {
-  padding: 5px;
- 
+  padding: 5px; 
   margin: 5px;
 
   display: flex;
