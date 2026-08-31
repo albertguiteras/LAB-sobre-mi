@@ -1,21 +1,12 @@
-# 👤 Lab: Página 'Sobre Mí' (About Me)
+# Lab: Página 'Sobre Mí' (About Me)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Ironhack](https://img.shields.io/badge/Ironhack-Fullstack%20Web%20Dev-00E699?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-> 🎓 Proyecto/Laboratorio desarrollado durante el bootcamp **Fullstack Web Development** en **Ironhack**.
-
----
-
-## 📖 Descripción
+## 📖 Descripción del Laboratorio
 
 Sitio web de presentación personal y profesional con biografía, trayectoria académica, habilidades técnicas y enlaces a redes sociales.
 
 ---
 
-## 🎯 Objetivos y Conceptos Clave
+## 🎯 Objetivos y Requisitos Técnicos
 
 - [x] Estructuración de perfil personal y portafolio
 - [x] Sección de habilidades (Skills) con barras o etiquetas visuales
@@ -24,7 +15,7 @@ Sitio web de presentación personal y profesional con biografía, trayectoria ac
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## 🛠️ Tecnologías y Herramientas
 
 - **HTML5 Semántico**
 - **CSS3 Moderno**
@@ -39,11 +30,5 @@ Sitio web de presentación personal y profesional con biografía, trayectoria ac
 # 1. Clonar el repositorio
 git clone https://github.com/albertguiteras/LAB-sobre-mi.git
 
-# 2. Abrir index.html en tu navegador web favorito o con Live Server
+# 2. Abrir index.html en tu navegador o mediante Live Server
 ```
-
----
-
-## 👤 Autor
-
-* **Albert Guiteras** — [GitHub (@albertguiteras)](https://github.com/albertguiteras)
